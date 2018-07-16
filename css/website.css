@@ -48,6 +48,28 @@ footer {margin-top: 30px;}
   padding: 4px 8px;
 }
 
+#service-flow {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.separator-next {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+.reserve-option {
+  display: inline-block;
+  width: 20rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.reserve-option p {
+  margin-bottom: 0rem;
+}
+.reserve-operation-time {
+  margin-top: 10px;
+}
 
 /*about*/
 .org-description li {
