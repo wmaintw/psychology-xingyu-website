@@ -12,7 +12,7 @@ scp 2_xingyuxinli.com.key ubuntu@118.24.36.172:~/website-cert/xingyuxinli-privat
 3. SSH到服务器，执行命令：
 ```
 cd psychology-xingyu-website
-./build-and-run.sh
+sudo ./build-and-run.sh
 ```
 
 4. 检查网站是否访问正常，且证书更新正常
